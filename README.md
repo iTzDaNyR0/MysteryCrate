@@ -32,10 +32,10 @@
 |Crate Key|`/key [playerName] [amount]`|`mc.command.key`|`op`|
 |Coordinates Locator|`/xyz`|`mc.command.xyz`|`op`|
 ### TODO's
- - [x] Add basic particles.
+ - [ ] Add basic particles.
  - [x] Finish working on commands.
  - [ ] Add options for more particles.
- - [ ] Add custom `items.yml`to declare custom items to be given to players.
+ - [x] Add custom `items.yml`to declare custom items to be given to players.
  - [ ] Make setup a bit easier by making the plugin get coordinates itself.
  - [X] Make it so that not random items are generated in all the slots as discussed [#1](https://github.com/JackMD/MysteryCrate/issues/1)
  - [ ] **(*Low Priority*)** Add support for making more than one crate. 
